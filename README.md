@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek Zagoub</h1>
-<h3 align="center"> Enthusiastic Telecommunications Engineering student with a strong passion for Artificial Intelligence and its transformative impact on communication technologies. Currently pursuing a BSc, with hands-on experience in machine learning and AI-driven solutions.</h3>
+<h3 align="center">Enthusiastic Telecommunications Engineering student with a strong passion for Artificial Intelligence and its transformative impact on communication technologies. Currently pursuing a BSc, with hands-on experience in machine learning and AI-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekzagoub&label=Profile%20views&color=0e75b6&style=flat" alt="malekzagoub" /> </p>
 
