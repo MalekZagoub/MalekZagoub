@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekzagoub&label=Profile%20views&color=0e75b6&style=flat" alt="malekzagoub" /> </p>
 
-- 🔭 I’m currently working on [Anomaly detection in financial bank transactions](https://github.com/MalekZagoub/Anomaly-Detection-in-Financial-Transactions)
+- 🔭 I’m currently working on [V2X Wireless Communication Solutions for On/Off-Road Vehicles](https://github.com/MalekZagoub/V2X-Wireless-Communication-Solutions-for-On-Off-Road-Vehicles)
 
 - 🌱 I’m currently learning **Data mining algorithms and models**
 
