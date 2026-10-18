@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek Zagoub</h1>
-<h3 align="center">Enthusiastic Telecommunications Engineering student with a strong passion for Artificial Intelligence and its transformative impact on communication technologies. Currently pursuing a BSc, with hands-on experience in machine learning and AI-driven solutions.</h3>
+<h3 align="center">Data-driven telecommunications professional and former MITACS Globalink Research Intern (GRI 2025), with a strong foundation in wireless networks and machine learning. Passionate about turning emerging technologies into reliable connectivity for demanding real-world environments, through industry-driven R&D projects that drive innovation and promote social progress. As an M.A.Sc. candidate at ÉTS working alongside industry partners, focused on making a meaningful impact in the technology industry, and on inspiring more women in engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekzagoub&label=Profile%20views&color=0e75b6&style=flat" alt="malekzagoub" /> </p>
 
