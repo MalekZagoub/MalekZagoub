@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [V2X Wireless Communication Solutions for On/Off-Road Vehicles](https://github.com/MalekZagoub/V2X-Wireless-Communication-Solutions-for-On-Off-Road-Vehicles)
 
-- 🌱 I’m currently learning **Data mining algorithms and models**
+- 🌱Exploring how wireless mesh networks perform when everything moves: **routing, link quality and throughput for V2X communication**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalekZagoub](https://github.com/MalekZagoub)
 
