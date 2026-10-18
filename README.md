@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek Zagoub</h1>
-<h3 align="center">Data-driven telecommunications professional and former MITACS Globalink Research Intern (GRI 2025), with a strong foundation in wireless networks and machine learning. Passionate about turning emerging technologies into reliable connectivity for demanding real-world environments, through industry-driven R&D projects that drive innovation and promote social progress. As an M.A.Sc. candidate at ÉTS working alongside industry partners, focused on making a meaningful impact in the technology industry, and on inspiring more women in engineering.</h3>
+<h3 align="center">Data-driven telecommunications professional turning emerging technologies into connectivity that holds up in demanding environments. Strong foundation in wireless networks and machine learning, built through industry-driven R&D and a MITACS Globalink internship (2025). M.A.Sc. candidate at ÉTS, working with industry partners on innovation that serves society, and committed to opening the door of engineering to more women.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malekzagoub&label=Profile%20views&color=0e75b6&style=flat" alt="malekzagoub" /> </p>
 
